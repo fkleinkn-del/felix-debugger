@@ -59,6 +59,10 @@ Felix Debugger does not integrate with, connect to, or communicate with any thir
 
 If this privacy policy changes, the updated version will be published alongside the extension update.
 
+## Disclaimer & Liability
+
+This extension is provided “as is” without any guarantees or warranties. It is intended for debugging and informational purposes only and does not modify or interfere with your GA4 or GTM implementation. The author assumes no liability for any direct or indirect damages arising from the use of this tool. Users are responsible for validating the results in their own tracking environment.
+
 ## Contact
 
 For questions about this privacy policy, contact Felix Kleinknecht.
